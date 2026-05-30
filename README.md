@@ -91,10 +91,3 @@ switch(count)
 * Scientific calculator functions
 * Improved UI design using layouts and custom styling
 * Better error handling for invalid inputs and division by zero
-
-## Author
-
-**Addwin Alanolikkal**
-
-B.Tech Computer Science and Engineering
-Christ College of Engineering (Autonomous)
